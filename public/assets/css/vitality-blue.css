@@ -196,7 +196,7 @@ hr.colored {
   border-color: rgba(255, 255, 255, 0.5);
 }
 .navbar-inverse {
-  background-color: #222222;
+  background-color: #3C65B0;
 }
 .navbar-default,
 .navbar-inverse {
@@ -1060,7 +1060,7 @@ footer.footer .copyright p.small {
 .btn-full-width {
   border: 0;
   border-radius: 0;
-  background-color: #222222;
+  background-color: #3C65B0;
   color: white;
   padding: 50px 0;
   font-size: 26px;
