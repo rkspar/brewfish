@@ -615,7 +615,7 @@ aside.cta-quote span.quote {
 }
 .portfolio-carousel {
   padding: 0;
-  color: white;
+  color: #DFE2E9;
   background-color: #222222;
 }
 .portfolio-carousel .item {
@@ -723,7 +723,7 @@ aside.cta-quote span.quote {
   display: none;
 }
 .portfolio-modal .modal-content {
-  color: white;
+  color: #DFE2E9;
   background: transparent;
   border-radius: 0;
   background-clip: border-box;
