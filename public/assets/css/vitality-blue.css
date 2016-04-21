@@ -723,7 +723,7 @@ aside.cta-quote span.quote {
   display: none;
 }
 .portfolio-modal .modal-content {
-  color: #DFE2E9;
+  color: #000;
   background: transparent;
   border-radius: 0;
   background-clip: border-box;
@@ -1019,7 +1019,7 @@ footer.footer .copyright p.small {
 .btn-outline-light {
   color: white;
   border: 1px solid white;
-  background: transparent;
+  background: #3C65B0;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
